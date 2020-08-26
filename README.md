@@ -2,4 +2,4 @@
 
 Hi Everyone
 
-I am Blessing Elendu and this is my first branch
+I am Blessing Elendu I love coding and this is my first branch 
